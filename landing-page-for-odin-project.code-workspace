@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"formulahendry.auto-rename-tag",
+			"sporiley.css-auto-prefix",
+			"zitup.classnametocss",
+			"myaaghubi.auto-semicolon-vscode",
+			"ecmel.vscode-html-css",
+			"solnurkarim.html-to-css-autocompletion",
+			"antfu.iconify",
+			"zignd.html-css-class-completion",
+			"ritwickdey.liveserver"
+		]
+	}
+}
